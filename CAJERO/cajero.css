@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css?family=Mystery+Quest");
+
+
+body 
+{
+    font-family: "Georgia";
+    color: #333;
+    font-size: 1.2rem;
+    line-height: 1.4em;
+    margin:0;
+}
+
+.container
+{
+    width: 100%;
+    margin-top:0;
+    text-align: center;
+    margin:0;
+   
+}
+
+h1
+{
+font-family: "Nerko One", cursive;
+font-size: 2.5em;
+line-height: 1.5em;
+justify-content: center;
+margin:0;
+}
+
+.contenidoFijo
+{
+    background-color: rgb(5, 55, 102);
+    color: rgb(202, 200, 200);
+    position:fixed;
+    top:0;
+    width: 100%;
+    margin:0;
+    padding-bottom: 1rem;
+
+}
+
+.boton
+{
+    color: black;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    transition: all 0.4s;
+    border-radius: 8px;
+    margin:0;
+}
+
+.boton:hover
+{
+    background:rgb(130, 224, 130);
+    margin:0;
+
+}
+
+.resultado
+{
+    padding-top: 23em;
+    
+}
